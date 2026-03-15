@@ -1,0 +1,26 @@
+## Interface: 120000
+## Title: |cffcf9030Guild|cff00ff98Master|r Tools
+## Notes: Guild Leadership Suite — Rustbolt Goblin Engineering Division
+## Author:
+## Version: 4.3.0
+## SavedVariables: GMT_DB
+## SavedVariablesPerCharacter: GMT_CharDB
+
+Core.lua
+Theme.lua
+UI.lua
+
+Modules/Home.lua
+Modules/Members.lua
+Modules/Recruitment.lua
+Modules/RaidReadiness.lua
+Modules/TalentMap.lua
+Modules/Logistics.lua
+Modules/Options.lua
+Modules/Economy.lua
+Modules/RaidPerf.lua
+Modules/Events.lua
+Modules/GuildTools.lua
+Modules/CombatLog.lua
+Modules/Minimap.lua
+Modules/GuildSync.lua
